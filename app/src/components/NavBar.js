@@ -14,7 +14,7 @@ export default function Navbar(){
     </div>
   </div>
   <div class="navbar-center">
-    <a class="btn btn-ghost normal-case text-xl text-base-100">Immigrace</a>
+    <a class="btn btn-ghost normal-case text-xl text-secondary">IMMIGRACE</a>
   </div>
   <div class="navbar-end">
     <button class="btn btn-ghost btn-circle">
