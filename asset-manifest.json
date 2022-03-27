@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cypher2022/static/css/main.4cf12859.css",
-    "main.js": "/cypher2022/static/js/main.6fe6c85b.js",
+    "main.css": "/cypher2022/static/css/main.ee9eb75d.css",
+    "main.js": "/cypher2022/static/js/main.01ffdc8f.js",
     "static/js/787.c1112931.chunk.js": "/cypher2022/static/js/787.c1112931.chunk.js",
     "index.html": "/cypher2022/index.html",
-    "main.4cf12859.css.map": "/cypher2022/static/css/main.4cf12859.css.map",
-    "main.6fe6c85b.js.map": "/cypher2022/static/js/main.6fe6c85b.js.map",
+    "main.ee9eb75d.css.map": "/cypher2022/static/css/main.ee9eb75d.css.map",
+    "main.01ffdc8f.js.map": "/cypher2022/static/js/main.01ffdc8f.js.map",
     "787.c1112931.chunk.js.map": "/cypher2022/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cf12859.css",
-    "static/js/main.6fe6c85b.js"
+    "static/css/main.ee9eb75d.css",
+    "static/js/main.01ffdc8f.js"
   ]
 }
