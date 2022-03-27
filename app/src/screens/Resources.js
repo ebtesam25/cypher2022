@@ -17,11 +17,14 @@ export default function Resources() {
                     <p className="font-light">{data[id].description}</p>
                     <p className="pt-2 font-medium font-xs">Eligibility:</p>
                     <p className="font-light">{data[id].eligibility}</p>
+                    <p className="pt-2 font-medium font-xs">Contact:</p>
+                    <p className="font-light">{data[id].contactInfo}</p>
                     <p className="pt-2 font-medium font-xs">Tags:</p>
                     <div className="font-bold badge badge-ghost badge-sm">{data[id].tags}</div>
                     <div className="mt-4">
                     <a href={data[id].link}><button class="btn btn-primary mr-4 float-left">Website</button></a>
-                    <a href={data[id].contactInfo}><button class="btn btn-secondary mr-4 float-right">Contact</button></a>
+                    {data[id].Coordinates!="Online"&&<a href={`http://www.google.com/maps/place/${data[id].Coordinates}`}><button class={`btn btn-secondary mr-4 float-right`}>Map</button></a>}
+                    
                     </div>
         </label>
         </label>
